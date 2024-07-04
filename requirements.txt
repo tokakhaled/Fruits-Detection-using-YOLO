@@ -1,0 +1,4 @@
+Flask==2.1.2
+ultralytics==8.0.20
+Pillow==9.5.0
+pyngrok==5.1.0
