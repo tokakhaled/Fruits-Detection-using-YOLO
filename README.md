@@ -102,10 +102,10 @@ For any questions or inquiries, please contact [your-email@example.com](mailto:y
     <sub><b>Toka Khaled</b></sub></a>
     </td>
     <td align="center">
-    <a href="https://" target="_black">
-    <img src="https://avatars.githubu" width="100px;" alt="eman "/>
+    <a href="https://github.com/Shaimaa-moh" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Shaimaa-moh "/>
     <br />
-    <sub><b> eman </b></sub></a>
+    <sub><b> Shaimaa-moh </b></sub></a>
     </td>
   </tr>
  </table>
