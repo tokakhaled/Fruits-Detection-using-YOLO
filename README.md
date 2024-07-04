@@ -38,6 +38,46 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 ├── Fruits_Detection.ipynb   # Jupyter Notebook for the project
 └── README.md                # README file for the project
 
+/content
+│
+├── app.py # Main application script
+├── runs # Contains prediction outputs and training logs
+│ ├── detect # Directory for detection-related outputs (e.g., predicted images)
+│ │ ├── predict # Predicted images
+│ │ │ ├── 1.png
+│ │ │ ├── 2.png
+│ │ │ ├── ... # Predicted images
+│ ├── train # Directory for training-related files (e.g., weights, logs)
+│ │ ├── weights # Trained YOLO model weights
+│ │ │ └── best.pt # Best trained model weights
+│ │ ├── logs # Training logs
+│ │ │ └── ... # Training log files
+├── static # Static files for the web application
+│ ├── styles.css # CSS styles for the web interface
+│ ├── uploads # Folder for uploaded images
+│ └── predictions # Folder for predicted images
+├── templates # HTML templates for the web application
+│ └── index.html # Main HTML template
+├── Inference # Directory holding sample inference images
+│ ├── 1.png
+│ ├── 2.png
+│ ├── 3.png
+│ ├── 4.png
+│ ├── 5.png
+│ ├── 6.png
+│ ├── 7.png
+│ ├── 8.png
+│ ├── 9.png
+│ ├── 10.png
+│ ├── 11.png
+│ ├── 12.png
+│ ├── 13.png
+│ ├── 14.png
+├── requirements.txt # List of dependencies for the project
+├── Fruits_Detection.ipynb # Jupyter Notebook for the project
+└── README.md # This README file
+
+
 
 
 ## Fruits-360 Dataset
