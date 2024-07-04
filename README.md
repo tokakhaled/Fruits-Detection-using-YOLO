@@ -4,8 +4,41 @@
 This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect different types of fruits in images. It includes a web interface where users can upload images and get predictions on the types of fruits present in the images.
 
 ## Directory Structure
-/content │ ├── app.py # Main application script ├── runs # Directory for prediction and training outputs │ ├── detect # Directory for detection-related outputs │ │ └── predict # Directory for predicted images │ ├── train # Directory for training-related outputs │ │ ├── weights # Directory for trained model weights │ │ │ └── best.pt # Best trained model weights ├── static # Static files for the web application │ ├── styles.css # CSS styles for the web interface │ ├── uploads # Folder for uploaded images │ └── predictions # Folder for predicted images ├── templates # HTML templates for the web application │ └── index.html # Main HTML template ├── Inference # Directory holding sample inference images │ ├── 1.png │ ├── 2.png │ ├── 3.png │ ├── 4.png │ ├── 5.png │ ├── 6.png │ ├── 7.png │ ├── 8.png │ ├── 9.png │ ├── 10.png │ ├── 11.png │ ├── 12.png │ ├── 13.png │ └── 14.png ├── requirements.txt # List of dependencies for the project ├── Fruits_Detection.ipynb # Jupyter Notebook for the project └── README.md # README file for the project
+```
+./
+├── app.py                              # Main application script
+├── runs                                # Directory for prediction and training outputs
+│ ├── detect                            # Directory for detection-related outputs
+│ │ └── predict                         # Directory for predicted images
+│ ├── train                             # Directory for training-related outputs
+│ │ ├── weights                         # Directory for trained model weights
+│ │ │ └── best.pt                       # Best trained model weights
+├── static                              # Static files for the web application
+│ ├── styles.css                        # CSS styles for the web interface
+│ ├── uploads                           # Folder for uploaded images
+│ └── predictions                       # Folder for predicted images
+├── templates                           # HTML templates for the web application
+│ └── index.html                        # Main HTML template
+├── Inference                           # Directory holding sample inference images
+│ ├── 1.png
+│ ├── 2.png
+│ ├── 3.png
+│ ├── 4.png
+│ ├── 5.png
+│ ├── 6.png
+│ ├── 7.png
+│ ├── 8.png
+│ ├── 9.png
+│ ├── 10.png
+│ ├── 11.png
+│ ├── 12.png
+│ ├── 13.png
+│ └── 14.png
+├── requirements.txt # List of dependencies for the project
+├── Fruits_Detection.ipynb # Jupyter Notebook for the project
+└── README.md # README file for the project
 
+```
 
 ## Fruits-360 Dataset
 
@@ -59,6 +92,23 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
 
+## Contributors
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="https://github.com/tokakhaled" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/40439659?v=4" width="100px;" alt="Toka Khaled"/>
+    <br />
+    <sub><b>Toka Khaled</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://" target="_black">
+    <img src="https://avatars.githubu" width="100px;" alt="eman "/>
+    <br />
+    <sub><b> eman </b></sub></a>
+    </td>
+  </tr>
+ </table>
 
 
 
