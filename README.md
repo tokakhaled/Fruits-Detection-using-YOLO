@@ -78,6 +78,10 @@ The dataset is structured in directories for training and testing, with each fru
    python app.py
 5.**Access the Web Interface:**
   Open a web browser and go to http://127.0.0.1:5000/ to use the web interface.
+
+## Demo Video
+https://drive.google.com/file/d/1E6r47_kZ-zRvjZxyoABD2eL-WgVyCfuq/view?usp=sharing
+
 ## Usage
 
 - **Upload Images:** Click the upload button to select an image or multiple images for prediction.
@@ -127,8 +131,7 @@ For any questions or inquiries, please contact [your-email@example.com](mailto:y
     </td>
   </tr>
  </table>
-## Demo Video
-https://drive.google.com/file/d/1E6r47_kZ-zRvjZxyoABD2eL-WgVyCfuq/view?usp=sharing
+
 
 
 
